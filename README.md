@@ -1,4 +1,3 @@
 
 with MailChimp integration
-
-startup.page.github.io
+ https://gabriel-ionita.github.io/startup.page.github.io/
